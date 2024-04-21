@@ -11,7 +11,7 @@
 
 ##### Cihaz Bilgileri : 
   - ##### Cihaz Adı : `Pixel 4 API 31`
-  - ##### Android Sürümü : `Pixel 4 API 31`
+  - ##### Android Sürümü : `12.0`
 
 ## Login İşlemine Ait Örnek Rapor Çıktısı 
 
