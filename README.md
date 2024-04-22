@@ -12,7 +12,7 @@
 ##### Cihaz Bilgileri : 
   - ##### Cihaz Adı : `Pixel 4 API 31`
   - ##### Android Sürümü : `12.0`
-  - - ##### Cihaz Tipi : `Emülatör`
+  -  ##### Cihaz Tipi : `Emülatör`
 
 ## Login İşlemine Ait Örnek Rapor Çıktısı 
 
