@@ -4,7 +4,7 @@
 ##### Kullanılan APK ve Versiyonu : `Hepsiburada v5.37.1` - `Play Store Sürümü`
 ##### Ek Not : APK boyutu GitHub'ın desteklediği dosya boyutundan yüksek olduğu için `app/base.apk` proje içerisinden kaldırılmıştır. Aşağıda ki linkten dosyayı indirebilirsiniz :
 ##### İndirilen dosya `app/` klasörüne eklenmelidir.
-[İndirme linki : ](https://www.mediafire.com/file/0vqebxqwuaaejhs/base.apk/file)
+[İndirme linki ](https://www.mediafire.com/file/0vqebxqwuaaejhs/base.apk/file)
 
 
 
@@ -12,6 +12,7 @@
 ##### Cihaz Bilgileri : 
   - ##### Cihaz Adı : `Pixel 4 API 31`
   - ##### Android Sürümü : `12.0`
+  - - ##### Cihaz Tipi : `Emülatör`
 
 ## Login İşlemine Ait Örnek Rapor Çıktısı 
 
